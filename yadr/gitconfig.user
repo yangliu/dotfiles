@@ -1,0 +1,5 @@
+[core]
+	excludesfile = /Users/yangliu/.gitignore_global
+[user]
+	name = Yourname
+	email = your@email.com
