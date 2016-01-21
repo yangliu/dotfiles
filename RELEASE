@@ -1,3 +1,7 @@
+Version 0.2.0
+- Add yadr install and config script
+- Add nvm install and config script
+
 Version 0.1.0
 - Add homebrew install script
 - Add mpv install and configuration scripts
